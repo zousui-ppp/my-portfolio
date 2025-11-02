@@ -45,7 +45,7 @@ nav ul {
 
 /* ヒーローセクションのスタイル */
 .top-bg {
-    background-image: url(../portforio/images/Black\ Yellow\ Space\ Modern\ Space\ Galaxy\ Star\ Trivia\ Quiz\ Animated\ Game\ Presentation.jpg);
+    background-image: url(images/Black\ Yellow\ Space\ Modern\ Space\ Galaxy\ Star\ Trivia\ Quiz\ Animated\ Game\ Presentation.jpg);
     background-position: center top;
     background-size: cover;
     min-height: 100vh;
@@ -281,4 +281,5 @@ margin-bottom: 0;
 .works-info {
     padding-top: 100px; /* ヘッダーの高さ分、上から押し下げる */
     background-color: #eae5d7; /* bodyの背景色と同じにしてヘッダーの下から始まるように見せる */
+
 }
