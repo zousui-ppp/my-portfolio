@@ -45,7 +45,7 @@ nav ul {
 
 /* ヒーローセクションのスタイル */
 .top-bg {
-    background-image: url(./Presentation.jpg);
+    background-image: url(./images/Presentation.jpg);
     background-position: center top;
     background-size: cover;
     min-height: 100vh;
@@ -283,4 +283,5 @@ margin-bottom: 0;
     background-color: #eae5d7; /* bodyの背景色と同じにしてヘッダーの下から始まるように見せる */
 
 }
+
 
