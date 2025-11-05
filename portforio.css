@@ -8,7 +8,6 @@ html {
 body {
     background-color: #eae5d7;
     color: #333;
-    background-image: url("https://www.transparenttextures.com/patterns/rice-paper-2x.png");
   background-repeat: repeat;
 }
 
@@ -283,6 +282,7 @@ margin-bottom: 0;
     background-color: #eae5d7; /* bodyの背景色と同じにしてヘッダーの下から始まるように見せる */
 
 }
+
 
 
 
